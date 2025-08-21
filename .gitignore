@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Env files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS system files
+.DS_Store
+Thumbs.db
+node_modules
+# Node modules
+node_modules/
+
+# Env files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+dist
+.env
+.DS_Store
